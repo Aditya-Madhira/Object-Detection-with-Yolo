@@ -1,1 +1,1 @@
-# CV-with-Pytorch
+# CV-with-Yolov5
